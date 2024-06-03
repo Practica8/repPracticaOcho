@@ -27,6 +27,8 @@ Los integrantes del grupo somos 3:
 - Esfuerzo(fibonacci): 8.
 
 - Planificación:
+        - Milestone: Fase de análisis y planificación
+        - Iteración: Primera iteración del sprint 1
 </details> 
 
 
@@ -74,6 +76,9 @@ Los integrantes del grupo somos 3:
 - Esfuerzo(fibonacci): 3.
 
 - Planificación:
+        - Milestone: Fase de definición de requisitos
+        - Iteración: Segunda iteración del sprint 1
+        
 </details> 
 
 
