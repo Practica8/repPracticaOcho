@@ -7,7 +7,7 @@ Los integrantes del grupo somos 3:
 - Rubén M. Rodríguez Chamorro.
 
 # Planificación de proyecto 🗓️
-# >Tareas completadas ✅
+## >Tareas completadas ✅
 <details>
 <summary> Definición de requisitos.
 
@@ -80,4 +80,29 @@ Los integrantes del grupo somos 3:
 - Planificación:
 </details> 
 
-# >Tareas completadas en desarrollo☑️
+## >Tareas en desarrollo🕔
+
+<details>
+<summary> TITULO
+
+- Descripción: Definir la historia de usuario para la funcionalidad de cálculo del Índice de Masa Corporal (BMI). Incluir la descripción, los criterios de aceptación y las dependencias.
+</summary>
+
+- Nombre:
+
+- Descripción:  
+
+- Asignación de responsable:
+
+- Etiquetas: 
+
+- Prioridad:
+
+- Dificultad: 
+- Tiempo y costos: 
+
+- Esfuerzo(fibonacci): 
+
+- Planificación:
+
+</details> 
