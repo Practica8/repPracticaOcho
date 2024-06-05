@@ -205,6 +205,7 @@ Descripción: Diseñar el modelo relacional de la base de datos, definiendo las 
 
 </details> 
 
+
 <details>
 <summary> 10. Implementación de los test
 
@@ -231,7 +232,6 @@ Descripción: Diseñar el modelo relacional de la base de datos, definiendo las 
 
 </details> 
 
-<details>
 
 <details>
 <summary> 11. Corrección de errores
@@ -260,9 +260,6 @@ Descripción: Diseñar el modelo relacional de la base de datos, definiendo las 
 </details> 
 
 <details>
-
-
-
 <summary> 12. Implementación Modelo-Vista-Controlador
 
 Descripción: Desarrollar la arquitectura del software basada en el patrón MVC, asegurando la separación de las responsabilidades en los componentes del modelo, la vista y el controlador.
@@ -307,7 +304,6 @@ Descripción: Mejorar el código existente de la implementación inicial, optimi
 
 
 
-<details>
 
 <details>
 <summary> 14. Adaptación de los test
@@ -335,7 +331,6 @@ Descripción: Mejorar el código existente de la implementación inicial, optimi
 
 </details> 
 
-<details>
 
 
 
