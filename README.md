@@ -14,7 +14,7 @@ Los integrantes del grupo somos 3:
 - Descripción: Realizar la recopilación y análisis de los requisitos funcionales y no funcionales del proyecto. Esta tarea incluye la Identificación de las necesidades del usuario, la documentación de los requisitos y la validación con el cliente.
 </summary>
 
-- Asignación de responsable: Ruben M. Rddríguez Chamorro.
+- Asignación de responsable: Ruben M. Rodríguez Chamorro.
 
 - Etiquetas:  feature, doc.
 
@@ -26,20 +26,37 @@ Los integrantes del grupo somos 3:
 
 - Esfuerzo(fibonacci): 8.
 
-- Planificación:
-        - Milestone: Fase de análisis y planificación
-        - Iteración: Primera iteración del sprint 1
+- Planificación:  
+        - Milestone: Fase de análisis y planificación  
+        - Iteración: Primera iteración del sprint 1  
 </details> 
 
 
 
 
 <details>
-<summary>  2. Definir funciones de usuario
+<summary> 2. Definir funciones de usuario.
+	
+- Descripción: Identificar y documentar las funciones que los diferentes tipos de usuarios podrán realizar en el sistema. Esto incluye la definición de roles, permisos y las interacciones que cada tipo de usuario tendrá con el software.
 </summary>
+- Asignación de responsable: Ruben M. Rodríguez Chamorro.
 
+- Etiquetas: doc, feature
 
-</details> 
+- Prioridad: Alta
+
+- Dificultad: Media
+
+- Tiempo y costos: Estimación de 4 días de trabajo y un costo asociado de 400 euros.
+
+- Esfuerzo(fibonacci): 5
+
+- Planificación:
+    
+     - Milestone: Fase de análisis y planificación
+     - Iteración: Primera iteración del sprint 1  
+
+</details>
 
 
 
@@ -63,8 +80,8 @@ Los integrantes del grupo somos 3:
 
 - Planificación:
 
-        - Milestone:  Fase de análisis y planificación
-        - Iteración: Segunda iteración del sprint 1
+   - Milestone:  Fase de análisis y planificación
+   - Iteración: Segunda iteración del sprint 1
 </details> 
 
 
@@ -87,8 +104,9 @@ Los integrantes del grupo somos 3:
 - Esfuerzo(fibonacci): 3.
 
 - Planificación:
-        - Milestone:  Fase de análisis y planificación
-        - Iteración: Segunda iteración del sprint 1
+  
+    - Milestone:  Fase de análisis y planificación
+    - Iteración: Segunda iteración del sprint 1
         
 </details> 
 
@@ -334,15 +352,29 @@ Descripción: Mejorar el código existente de la implementación inicial, optimi
 
 
 
+</details>
+
+### 15. Corrección final
 <details>
 <summary> 15. Corrección final
 
-
-
+- Descripción: Realizar una revisión exhaustiva y final del software para corregir cualquier error restante. Asegurarse de que todas las funcionalidades están implementadas correctamente y que el sistema cumple con los requisitos establecidos. Esta tarea incluye pruebas finales, validación con el cliente y la preparación para el despliegue.
 </summary>
 
+- Asignación de responsable: Rubén M. Rodríguez Chamorro
 
+- Etiquetas: bug, final_review
 
-</details> 
+- Prioridad: Alta
 
-<details>
+- Dificultad: Alta
+
+- Tiempo y costos: Estimación de 5 días de trabajo y un costo asociado de 500 euros.
+
+- Esfuerzo(fibonacci): 8
+
+- Planificación:  
+        - Milestone: Fase de pruebas finales y despliegue  
+        - Iteración: Cuarta iteración del sprint 4  
+</details>
+
