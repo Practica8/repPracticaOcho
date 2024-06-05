@@ -110,7 +110,7 @@ Los integrantes del grupo somos 3:
         
 </details> 
 
-
+</details> 
 <summary>  5. Casos de uso
 
 - Descripción: ocumentar los casos de uso principales del sistema, incluyendo los actores, las acciones y los resultados esperados.
@@ -136,7 +136,7 @@ Los integrantes del grupo somos 3:
 
 
 
-
+</details> 
 
 <summary> 6.Diseño de la interfaz del software
 
@@ -201,7 +201,7 @@ Descripción: Diseñar el modelo relacional de la base de datos, definiendo las 
 <details>
 <summary> 9. Implementación del software
 
-- Descripción: Codificar las funciones y características definidas para la calculadora de salud, incluyendo la interfaz gráfica asociada junto con la implementación del Modelo-Vista-Controlados. Asegurar que el software cumple con los requisitos especificados.
+- Descripción: Codificar las funciones y características definidas para la calculadora de salud. Asegurar que el software cumple con los requisitos especificados.
 
 </summary>
 
@@ -227,7 +227,8 @@ Descripción: Diseñar el modelo relacional de la base de datos, definiendo las 
 <details>
 <summary> 10. Implementación de los test
 
-- Descripción: Desarrollar e implementar pruebas unitarias y de integración para el software. Asegurar la cobertura adecuada y la corrección del código.
+- Descripción: Desarrollar e implementar pruebas unitarias y de integración para el software, para comprobar que funciona correctamente cumpliendo así los requisitos deseados. Asegurar la cobertura adecuada y la corrección del código.
+
 </summary>
 
 
@@ -354,7 +355,6 @@ Descripción: Mejorar el código existente de la implementación inicial, optimi
 
 </details>
 
-### 15. Corrección final
 <details>
 <summary> 15. Corrección final
 
