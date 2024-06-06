@@ -6,6 +6,12 @@ Los integrantes del grupo somos 3:
 - Alexandra Rodríguez Serantes
 - Rubén M. Rodríguez Chamorro.
 
+# Imagen de la tabla
+
+![Tabla](https://github.com/Practica8/repPracticaOcho/blob/main/PlanificacionP8.PNG)
+
+
+
 # Planificación de proyecto 🗓️
 ## Tareas 
 <details>
@@ -110,7 +116,7 @@ Los integrantes del grupo somos 3:
         
 </details> 
 
-</details> 
+<details> 
 <summary>  5. Casos de uso
 
 - Descripción: ocumentar los casos de uso principales del sistema, incluyendo los actores, las acciones y los resultados esperados.
@@ -136,7 +142,7 @@ Los integrantes del grupo somos 3:
 
 
 
-</details> 
+<details> 
 
 <summary> 6.Diseño de la interfaz del software
 
@@ -163,7 +169,7 @@ Los integrantes del grupo somos 3:
 <details> 
 <summary> 7. Boceto de la Interfaz Gráfica
 
-Descripción: Crear bocetos detallados de la interfaz de usuario del software, enfocándose en la usabilidad y la experiencia del usuario.
+- Descripción: Crear bocetos detallados de la interfaz de usuario del software, enfocándose en la usabilidad y la experiencia del usuario.
 </summary>
 
 - Asignación de responsable: Alexandra
@@ -184,7 +190,7 @@ Descripción: Crear bocetos detallados de la interfaz de usuario del software, e
 <details> 
 <summary> 8. Creación Modelo Relacional
 
-Descripción: Diseñar el modelo relacional de la base de datos, definiendo las tablas, campos y relaciones entre ellos para garantizar la integridad y eficiencia de los datos. 
+- Descripción: Diseñar el modelo relacional de la base de datos, definiendo las tablas, campos y relaciones entre ellos para garantizar la integridad y eficiencia de los datos. 
 </summary>
 
 - Asignación de responsable: Alexandra
@@ -281,7 +287,7 @@ Descripción: Diseñar el modelo relacional de la base de datos, definiendo las 
 <details>
 <summary> 12. Implementación Modelo-Vista-Controlador
 
-Descripción: Desarrollar la arquitectura del software basada en el patrón MVC, asegurando la separación de las responsabilidades en los componentes del modelo, la vista y el controlador.
+- Descripción: Desarrollar la arquitectura del software basada en el patrón MVC, asegurando la separación de las responsabilidades en los componentes del modelo, la vista y el controlador.
 </summary>
 
 - Asignación de responsable: Alexandra
@@ -302,7 +308,7 @@ Descripción: Desarrollar la arquitectura del software basada en el patrón MVC,
 <details> 
 <summary> 13. Realizar Refactorización a la Implementación Inicial
 
-Descripción: Mejorar el código existente de la implementación inicial, optimizando su legibilidad, estructura y rendimiento sin alterar su funcionalidad. 
+- Descripción: Mejorar el código existente de la implementación inicial, optimizando su legibilidad, estructura y rendimiento sin alterar su funcionalidad. 
 </summary>
 
 - Asignación de responsable: Alexandra
